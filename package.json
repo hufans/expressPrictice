@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
-    "express-session": "*"
+    "express-session": "*",
+    "step": "1.0.0",
+    "async": "2.6.1"
   }
 }
