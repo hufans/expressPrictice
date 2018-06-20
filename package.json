@@ -12,6 +12,7 @@
     "express": "^4.16.3",
     "express-session": "*",
     "step": "1.0.0",
-    "async": "2.6.1"
+    "async": "2.6.1",
+    "bluebird": "^3.5.1"
   }
 }
