@@ -1,0 +1,1 @@
+var pb = require("protobufjs")

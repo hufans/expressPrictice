@@ -1,0 +1,1 @@
+INSERT INTO order_tb (ID,price,orderID) values (1,23.4,3436726);
