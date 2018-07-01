@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "node调试",
-            "program": "${workspaceFolder}/Regular_Expression/test1.js"
+            "program": "${workspaceFolder}/sort/sort.js"
         }
     ]
 }
